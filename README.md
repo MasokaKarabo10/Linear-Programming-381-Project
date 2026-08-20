@@ -10,6 +10,7 @@ Build the text file parser (LinearProgramParser.cs) handling max/min, operators 
 Build the Canonical Form transformer.
 Build OutputFormatter.cs to write formatted output text files with numbers rounded to 3 decimal places.
 Build the CLI Menu system for solve.exe.
+
 Member 2: Primal & Revised Simplex Engine
 Responsibility:
 Implement the standard Primal Simplex Algorithm (tableau generation, pivot selection, ratio test, step-by-step output).
